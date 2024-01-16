@@ -33,5 +33,8 @@ curso elaborado pelo programador aventureiro, ensinando a usar o flet um framewo
 ## listar bibliotecas instaladas no ambiente virtual
 ### pip list 
 
+## Exemlo de fontes por link
+### 'Kanit': 'https://raw.githubusercontent.com/google/fonts/master/ofl/kanit/Kanit-Bold.ttf',
+
 
 
