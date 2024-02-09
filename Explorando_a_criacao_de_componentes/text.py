@@ -45,4 +45,4 @@ def main(page: ft.page):
     page.add(t1, t2)
 
 
-ft.app(target=main, assets_dir= 'Assets')
+ft.app(target=main, assets_dir= 'assets')
